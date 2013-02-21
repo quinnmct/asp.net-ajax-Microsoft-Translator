@@ -1,0 +1,8 @@
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\bin\SimpleMicrosoftTranslateAPI.dll
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\bin\SimpleMicrosoftTranslateAPI.pdb
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\bin\Telerik.Web.UI.dll
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\bin\Telerik.Web.UI.Skins.dll
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\bin\Telerik.Web.UI.xml
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\obj\Debug\SimpleMicrosoftTranslateAPI.dll
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\obj\Debug\SimpleMicrosoftTranslateAPI.pdb
+c:\users\mctiernan\documents\visual studio 2012\Projects\SimpleMicrosoftTranslateAPI\SimpleMicrosoftTranslateAPI\obj\Debug\SimpleMicrosoftTranslateAPI.csprojResolveAssemblyReference.cache
